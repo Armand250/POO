@@ -1,0 +1,11 @@
+# ninja log v5
+1	1572	7500894536936810	CMakeFiles/Laborator_2.dir/main.cpp.obj	9aaa493753f65114
+4	854	7500894732946437	CMakeFiles/Laborator_2.dir/lab2.cpp.obj	9fce1c1441a59f24
+854	1020	7500894734536516	Laborator_2.exe	8cafb21f399a3fa5
+23	1383	7500920887521716	CMakeFiles/Laborator_2.dir/main.cpp.obj	9aaa493753f65114
+31	1400	7500920887582121	CMakeFiles/Laborator_2.dir/student.cpp.obj	531f23d53cc34552
+8	1405	7500920887726019	CMakeFiles/Laborator_2.dir/produs.cpp.obj	ac3a8686243ed1fc
+14	1411	7500920887836048	CMakeFiles/Laborator_2.dir/carte.cpp.obj	55d099d9476d2fb7
+1412	1671	7500920890267761	Laborator_2.exe	64de9ab5d77bec8f
+5	804	7500922940664678	CMakeFiles/Laborator_2.dir/main.cpp.obj	9aaa493753f65114
+805	940	7500922941951771	Laborator_2.exe	64de9ab5d77bec8f
